@@ -1,6 +1,6 @@
 ---
-id: IDHome
-title: TitleHome
+id: ''
+title: Home
 sidebar_label: Home
 
 ---
