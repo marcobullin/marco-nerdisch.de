@@ -20,39 +20,34 @@ module.exports = {
           label: 'Home',
           position: 'left',
         },
-        { to: 'blog', label: 'Blog', position: 'left' },
-        {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
-        },
+        { to: 'blog', label: 'Blog', position: 'left' }
       ],
     },
     footer: {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Seiten',
           items: [
             {
-              label: 'Style Guide',
+              label: 'Home',
               to: 'docs/',
             },
             {
-              label: 'Second Doc',
+              label: 'Kurse',
               to: 'docs/doc2/',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'Social Media',
           items: [
             {
-              label: 'Stack Overflow',
+              label: 'Facebook',
               href: 'https://stackoverflow.com/questions/tagged/docusaurus',
             },
             {
-              label: 'Discord',
+              label: 'Instagram',
               href: 'https://discordapp.com/invite/docusaurus',
             },
             {
@@ -62,7 +57,7 @@ module.exports = {
           ],
         },
         {
-          title: 'More',
+          title: 'Mehr',
           items: [
             {
               label: 'Blog',
@@ -75,7 +70,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Nerdisch, Marco Bullin.`,
     },
   },
   presets: [
