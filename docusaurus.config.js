@@ -1,26 +1,32 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'Marco von Nerdisch',
+  tagline: 'Softwareentwicklung und mehr',
+  url: 'https://marco-nerdisch.de',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  projectName: 'marco-nerdisch.de', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Nerdisch',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Mein Logo',
         src: 'img/logo.svg',
       },
       items: [
+        {
+          to: 'home/',
+          activeBasePath: 'home',
+          label: 'Home',
+          position: 'left',
+        },
         {
           to: 'docs/',
           activeBasePath: 'docs',
           label: 'Docs',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+        { to: 'blog', label: 'Blog', position: 'left' },
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
@@ -82,17 +88,19 @@ module.exports = {
     [
       '@docusaurus/preset-classic',
       {
+        home: {
+          sidebarPath: require.resolve('./sidebars.json'),
+          editUrl: 'https://github.com/marcobullin/marco-nerdisch.de.git/',
+        },
         docs: {
           sidebarPath: require.resolve('./sidebars.json'),
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/DirtyF/docusaurus-forestry-starter/edit/master/website/',
+          editUrl: 'https://github.com/marcobullin/marco-nerdisch.de.git/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/DirtyF/docusaurus-forestry-starter/edit/master/website/blog/',
+          editUrl: 'https://github.com/marcobullin/marco-nerdisch.de.git/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

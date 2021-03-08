@@ -1,5 +1,5 @@
 ---
-id: ''
+slug: "/"
 title: Home
 sidebar_label: Home
 
