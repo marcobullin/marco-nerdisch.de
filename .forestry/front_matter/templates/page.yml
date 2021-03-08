@@ -13,3 +13,4 @@ fields:
   label: sidebar_label
 pages:
 - home/titlehome.md
+- test/test-page.md
