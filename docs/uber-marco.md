@@ -4,6 +4,8 @@ title: Über Marco
 sidebar_label: Über Marco
 
 ---
+![](/img/marco.jpeg)
+
 Ich bin Marco Bullin,
 
 **Softwareentwickler und Coach**, Spezialist für Webentwicklung im Frontend und Backend, Kaffeeliebhaber, Umweltschützer, Minimalist, Müsliesser und Tierliebhaber.  
