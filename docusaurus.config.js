@@ -20,7 +20,13 @@ module.exports = {
           label: 'Home',
           position: 'left',
         },
-        { to: 'blog', label: 'Blog', position: 'left' }
+        { to: 'blog', label: 'Blog', position: 'left' },
+        {
+          to: 'docs/uber-marco/',
+          activeBasePath: 'docs',
+          label: 'Über Marco',
+          position: 'left',
+        },
       ],
     },
     footer: {
