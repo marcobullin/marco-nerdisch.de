@@ -15,15 +15,9 @@ module.exports = {
       },
       items: [
         {
-          to: 'home/',
-          activeBasePath: 'home',
-          label: 'Home',
-          position: 'left',
-        },
-        {
           to: 'docs/',
           activeBasePath: 'docs',
-          label: 'Docs',
+          label: 'Home',
           position: 'left',
         },
         { to: 'blog', label: 'Blog', position: 'left' },
@@ -88,10 +82,6 @@ module.exports = {
     [
       '@docusaurus/preset-classic',
       {
-        home: {
-          sidebarPath: require.resolve('./sidebars.json'),
-          editUrl: 'https://github.com/marcobullin/marco-nerdisch.de.git/',
-        },
         docs: {
           sidebarPath: require.resolve('./sidebars.json'),
           // Please change this to your repo.
