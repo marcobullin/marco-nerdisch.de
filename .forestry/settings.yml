@@ -7,7 +7,7 @@ sections:
 - type: directory
   path: home
   label: Home
-  create: documents
+  create: all
   match: "*.md"
   templates:
   - page
