@@ -12,5 +12,4 @@ fields:
   name: sidebar_label
   label: sidebar_label
 pages:
-- home/testseite.md
 - home/titlehome.md
