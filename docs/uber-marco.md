@@ -6,24 +6,22 @@ sidebar_label: Über Marco
 ---
 ![](/img/marco.jpeg)
 
-Ich bin Marco Bullin,
+## Ich bin Marco Bullin,
 
 **Softwareentwickler und Coach**, Spezialist für Webentwicklung im Frontend und Backend, Kaffeeliebhaber, Umweltschützer, Minimalist, Müsliesser und Tierliebhaber.  
 Mein perfekter Tag beginnt mit Sonnenschein, Kaffee und liebenswerte Menschen.
 
-**Meine Vision**
+### **Meine Vision**
 
 Dich zu motivieren einen Job als Softwareentwickler einzuschlagen um die Welt zu verändern.
 
-**Lets Talk About Tech**
+### **Lets Talk About Tech**
 
 Ich kann dein Know-How in folgenden Technologien ausbauen:
 
 _HTML, CSS, SCSS, JavaScript, TypeScript, NodeJS, ReactJS, GraphQL, MongoDB, AWS_
 
-> **Nerdisch**
->
-> Wie bin ich zum Nerd geworden :)
+### Wie bin ich zum Nerd geworden :)
 
 **Januar 2019 - jetzt**  
 Professional Software Engineer  
