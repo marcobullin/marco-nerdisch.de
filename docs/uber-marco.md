@@ -21,7 +21,7 @@ Ich kann dein Know-How in folgenden Technologien ausbauen:
 
 _HTML, CSS, SCSS, JavaScript, TypeScript, NodeJS, ReactJS, GraphQL, MongoDB, AWS_
 
-### Wie bin ich zum Nerd geworden :)
+### Wie bin ich zum Nerd geworden
 
 **Januar 2019 - jetzt**  
 Professional Software Engineer  
