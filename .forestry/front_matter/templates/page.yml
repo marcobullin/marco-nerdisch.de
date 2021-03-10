@@ -12,5 +12,6 @@ fields:
   name: sidebar_label
   label: sidebar_label
 pages:
+- docs/online-kurse.md
 - docs/uber-marco.md
 - docs/willkommen.md
