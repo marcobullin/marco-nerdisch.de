@@ -4,4 +4,13 @@ title: Willkommen
 sidebar_label: ''
 
 ---
-Werde Softwareentwickler und nimm den Nächsten Schritt auf der Karriereleiter
+<style>
+  .teaser {
+    width: 350px;
+    font-size: bold;
+  }
+</style>
+
+<div class="teaser">
+  Werde Softwareentwickler und nimm den Nächsten Schritt auf der Karriereleiter
+</div>
