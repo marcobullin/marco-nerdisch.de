@@ -15,18 +15,12 @@ module.exports = {
       },
       items: [
         {
-          to: 'docs/',
+          to: 'docs/willkommen',
           activeBasePath: 'docs',
           label: 'Home',
           position: 'left',
         },
         { to: 'blog', label: 'Blog', position: 'left' },
-        {
-          to: 'docs/uber-marco/',
-          activeBasePath: 'docs',
-          label: 'Über Marco',
-          position: 'left',
-        },
       ],
     },
     footer: {
